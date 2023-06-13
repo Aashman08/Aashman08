@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aashman Rastogi (Aashman08)</h1> 
 <h3 align="center">A junior majoring in Statistics and Data Science at UCLA</h3> 
 
-I'm passionate about the fascinating worlds of remote sensing and space exploration. As an avid enthusiast, I find myself captivated by the endless possibilities that lie beyond our planet. Remote sensing, in particular, has piqued my curiosity due to its ability to gather valuable information about Earth from a distance. From satellite imagery to LiDAR data, I am intrigued by the immense potential of using these technologies to study our planet's dynamic ecosystems, monitor climate change, and contribute to sustainable development. Exploring the depths of space and understanding our place in the universe is also a significant interest of mine. I find it awe-inspiring to learn about the latest advancements in astrophysics, planetary science, and space exploration missions. Through my GitHub projects, I aim to combine my passion for remote sensing and space, leveraging data analysis, machine learning, and visualization techniques to contribute to these exciting fields. Join me on this journey as we uncover the mysteries of our world and beyond!
+I am deeply passionate about the fascinating world of data science, where I continuously explore the immense potential hidden within vast amounts of information. The ability to uncover valuable insights and patterns from data captivates me, driving my enthusiasm to contribute meaningfully in this field. I find it exhilarating to employ data analysis, machine learning, and visualization techniques to extract knowledge and make informed decisions.
+
+Moreover, my curiosity extends to the captivating realms of remote sensing and space exploration. Remote sensing, in particular, has ignited my imagination with its unique ability to gather valuable information about Earth from a distance. The remarkable technologies employed, such as satellite imagery and LiDAR data, present limitless opportunities to study our planet's dynamic ecosystems, monitor climate change, and contribute to sustainable development.
+
+Simultaneously, the depths of space beckon me, inviting exploration and a deeper understanding of our place in the universe. I am constantly awestruck by the latest advancements in astrophysics, planetary science, and space exploration missions. Keeping up with the most recent discoveries and breakthroughs fuels my desire to contribute to these fields.
+
+Through my projects on GitHub, I aim to combine my passion for data science, remote sensing, and space exploration. Utilizing the capabilities of data analysis, machine learning, and visualization techniques, my aim is to create substantial contributions that enhance individuals' and organizations' comprehension of their data while also fostering a deeper understanding of our planet, Earth.
 
 <!-- ONE LINERS --> 
 - 📫 How to reach me **aashman0803@g.ucla.edu** 
