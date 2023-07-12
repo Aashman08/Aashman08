@@ -3,11 +3,9 @@
 
 I am deeply passionate about the fascinating world of data science, where I continuously explore the immense potential hidden within vast amounts of information. The ability to uncover valuable insights and patterns from data captivates me, driving my enthusiasm to contribute meaningfully in this field. I find it exhilarating to employ data analysis, machine learning, and visualization techniques to extract knowledge and make informed decisions.
 
-Moreover, my curiosity extends to the captivating realms of remote sensing and space exploration. Remote sensing, in particular, has ignited my imagination with its unique ability to gather valuable information about Earth from a distance. The remarkable technologies employed, such as satellite imagery and LiDAR data, present limitless opportunities to study our planet's dynamic ecosystems, monitor climate change, and contribute to sustainable development.
+Moreover, my curiosity extends from the  captivating realms of remote sensing and space exploration to utilizing gen AI for drug discovery and healthcare. Remote sensing, in particular, has ignited my imagination with its unique ability to gather valuable information about Earth from a distance. The remarkable technologies employed, such as satellite imagery and LiDAR data, present limitless opportunities to study our planet's dynamic ecosystems, monitor climate change, and contribute to sustainable development.
 
-Simultaneously, the depths of space beckon me, inviting exploration and a deeper understanding of our place in the universe. I am constantly awestruck by the latest advancements in astrophysics, planetary science, and space exploration missions. Keeping up with the most recent discoveries and breakthroughs fuels my desire to contribute to these fields.
-
-Through my projects on GitHub, I aim to combine my passion for data science, remote sensing, and space exploration. Utilizing the capabilities of data analysis, machine learning, and visualization techniques, my aim is to create substantial contributions that enhance individuals' and organizations' comprehension of their data while also fostering a deeper understanding of our planet, Earth.
+Through my projects on GitHub, I aim to combine my passion for data science, remote sensing, space exploration and Gen AI. Utilizing the capabilities of data analysis, machine learning, and visualization techniques, my aim is to create substantial contributions that enhance individuals' and organizations' comprehension of their data while also fostering a deeper understanding of ourselves and our planet, Earth.
 
 <!-- ONE LINERS --> 
 - 📫 How to reach me **aashman0803@g.ucla.edu** 
