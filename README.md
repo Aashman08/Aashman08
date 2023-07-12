@@ -9,8 +9,8 @@ Through my projects on GitHub, I aim to combine my passion for data science, rem
 
 <!-- ONE LINERS --> 
 - 📫 How to reach me **aashman0803@g.ucla.edu** 
-- 🌱 I’m currently learning computer vision 
-- 👯 I’m looking to collaborate on any project in data science specially in remote sensing or computer vision
+- 🌱 I’m currently learning Generative AI and Prompt engineering
+- 👯 I’m looking to collaborate on any project in data science specially in remote sensing, computer vision or Gen AI
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/-Python-2d2b55?style=for-the-badge&logo=Python)
