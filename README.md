@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashman Rastogi (Aashman08)</h1> 
-<h3 align="center">A junior majoring in Statistics and Data Science at UCLA</h3> 
+<h3 align="center">I'm a junior majoring in Statistics and Data Science at UCLA</h3> 
 
 I am deeply passionate about the fascinating world of data science, where I continuously explore the immense potential hidden within vast amounts of information. The ability to uncover valuable insights and patterns from data captivates me, driving my enthusiasm to contribute meaningfully in this field. I find it exhilarating to employ data analysis, machine learning, and visualization techniques to extract knowledge and make informed decisions.
 
